@@ -1,6 +1,6 @@
 # NFT 实现学习
 
-# Test
+# 测试
 ```
 npm run test
 npm run test1
