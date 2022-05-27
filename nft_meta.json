@@ -1,0 +1,33 @@
+{
+    "attributes": [{
+            "trait_type": "Background",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Droid"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "RPG"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mask",
+            "value": "None"
+        },
+        {
+            "trait_type": "Primary Accessory",
+            "value": "Prayer Beads"
+        },
+        {
+            "trait_type": "Secondary Accessory",
+            "value": "None"
+        }
+    ],
+    "name": "killaz #10",
+    "image": "https://nft-buc-1302315235.cos.ap-beijing.myqcloud.com/pic0/10.jpeg"
+}
